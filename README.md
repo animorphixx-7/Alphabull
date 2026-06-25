@@ -71,10 +71,6 @@ Also, you need the following modules:
 
 The modules can also be installed using `pip`
 
-## Examples - Start Here - Important 
-
-Please clone this repository and check the examples folder to get started.  
-Check [here](https://algo2t.github.io/alphatrade/#working-with-examples)
 
 ## Getting started with API
 
