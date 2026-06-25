@@ -32,11 +32,6 @@ The HTTP calls have been converted to methods and JSON responses are wrapped int
 
 Websocket connections are handled automatically within the library.
 
-This work is completely based on Python SDK / APIs for [AliceBlueOnline](https://github.com/krishnavelu/alice_blue.git).  
-Thanks to [krishnavelu](https://github.com/krishnavelu/).  
-
-- **Author: [algo2t](https://github.com/algo2t/)**
-- **Github Repository: [alphatrade](https://github.com/algo2t/alphatrade.git)**
 
 ## Installation
 
